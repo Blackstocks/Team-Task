@@ -432,3 +432,27 @@ select{
 .c1{
     margin-left: 70px;
 }
+.row{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    flex-direction: row;
+}
+footer {
+    background-color: #181d30;
+    text-align: center;
+    padding: 25px 0px;
+  }
+  
+  footer p {
+    color: #fff;
+    font-weight: 300;
+  }
+  
+  footer p a {
+    color: #ff511a;
+  }
+section.partners {
+    background-color: #212741;
+    padding: 80px 0px;
+}
